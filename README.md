@@ -65,4 +65,4 @@ Demonstrar, em poucos dias, como construir um pipeline de dados robusto, do zero
 
 ---
 
-Projeto para fins educacionais e de portfólio.
+Projeto para fins educacionais e de portfólio feito de acordo com aula do Jornada de Dados (bootcamp DBT)
