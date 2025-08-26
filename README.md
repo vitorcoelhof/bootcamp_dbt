@@ -18,7 +18,6 @@ Este projeto demonstra uma arquitetura moderna de dados integrando múltiplas fo
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/lvgalvao/bootcamp-aberto-aovivo.git
    cd bootcamp_dbt_airbyte
    ```
 
