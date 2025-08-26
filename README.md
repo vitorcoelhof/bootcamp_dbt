@@ -5,10 +5,6 @@
 
 Este projeto demonstra uma arquitetura moderna de dados integrando múltiplas fontes (GA4, Facebook, Planilhas Google) utilizando ferramentas open source para ingestão, transformação e orquestração de dados.
 
-
-![pics](https://github.com/lvgalvao/bootcamp-aberto-aovivo/blob/main/pics/foto.png?raw=true)
-
-
 ## Arquitetura
 
 - **Airbyte:** Responsável pela ingestão dos dados de diferentes fontes e carregamento no banco de dados Postgres.
