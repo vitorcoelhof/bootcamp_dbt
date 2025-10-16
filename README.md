@@ -59,10 +59,4 @@ bootcamp_dbt_airbyte/
 └── README.md           # Este arquivo
 ```
 
-## Objetivo
 
-Demonstrar, em poucos dias, como construir um pipeline de dados robusto, do zero, utilizando ferramentas modernas e práticas de engenharia de dados.
-
----
-
-Projeto para fins educacionais e de portfólio feito de acordo com aula do Jornada de Dados (bootcamp DBT)
